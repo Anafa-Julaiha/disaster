@@ -1,0 +1,501 @@
+Threat_ID,Location,Disaster,Threat_Level,Required_Soldiers,Casualties_Estimated,Response_Time_Hours,Infrastructure_Damage,Evacuation_Required,Medical_Assistance_Needed
+1,School,Flood,7,84,112,20.52,Medium,No,Yes
+2,School,Tsunami,4,80,445,4.14,Medium,Yes,Yes
+3,School,Earthquake,8,120,358,17.3,Low,Yes,Yes
+4,Office,Tsunami,5,100,280,13.71,High,No,Yes
+5,School,Tsunami,7,140,116,7.82,Medium,No,No
+6,Mall,Tsunami,10,200,81,10.65,Low,Yes,Yes
+7,Residential Area,Tsunami,3,60,198,6.89,Medium,No,Yes
+8,Residential Area,Cyclone,7,91,30,15.06,Medium,No,Yes
+9,School,Cyclone,8,104,112,2.88,Low,Yes,Yes
+10,Office,Fire,5,50,131,1.12,High,Yes,No
+11,Office,Flood,4,48,476,15.44,High,No,Yes
+12,Mall,Tsunami,8,160,224,5.47,Low,Yes,No
+13,School,Fire,8,80,340,2.63,High,Yes,Yes
+14,Residential Area,Flood,3,36,468,10.13,Low,Yes,Yes
+15,Office,Earthquake,6,90,97,2.17,Low,No,No
+16,School,Cyclone,5,65,382,21.39,Low,No,Yes
+17,Office,Flood,2,24,109,1.64,High,Yes,No
+18,Office,Earthquake,8,120,369,14.31,Low,No,No
+19,Residential Area,Flood,6,72,161,11.08,Medium,Yes,Yes
+20,Hospital,Cyclone,2,26,140,16.46,High,No,No
+21,Mall,Cyclone,5,65,159,8.55,High,Yes,No
+22,Mall,Fire,1,10,318,4.57,High,Yes,No
+23,Residential Area,Tsunami,10,200,267,23.58,High,No,No
+24,Office,Flood,6,72,353,20.3,Medium,Yes,No
+25,School,Flood,9,108,423,20.79,High,No,No
+26,Office,Earthquake,1,15,303,6.76,High,No,No
+27,Residential Area,Cyclone,10,130,395,1.89,Low,Yes,No
+28,Mall,Flood,3,36,201,7.98,High,Yes,Yes
+29,Office,Cyclone,7,91,453,13.35,Medium,No,Yes
+30,Mall,Flood,4,48,286,8.51,Medium,Yes,No
+31,School,Fire,9,90,170,20.04,Medium,Yes,Yes
+32,Mall,Tsunami,3,60,469,7.25,Medium,Yes,No
+33,Mall,Flood,5,60,323,23.2,High,Yes,No
+34,Hospital,Cyclone,3,39,31,11.52,High,Yes,Yes
+35,Hospital,Fire,7,70,262,20.37,Medium,No,No
+36,Hospital,Flood,5,60,245,5.47,Medium,No,No
+37,Mall,Earthquake,9,135,354,10.46,High,Yes,No
+38,Residential Area,Tsunami,7,140,58,17.09,Medium,Yes,No
+39,Mall,Flood,2,24,484,4.18,Low,Yes,Yes
+40,Residential Area,Fire,4,40,68,4.05,Medium,No,No
+41,Residential Area,Earthquake,9,135,179,23.3,Medium,Yes,No
+42,Hospital,Fire,2,20,485,17.44,Low,No,No
+43,Office,Fire,10,100,197,1.94,Low,No,Yes
+44,School,Earthquake,9,135,473,10.17,High,No,No
+45,Hospital,Fire,10,100,280,10.97,High,Yes,Yes
+46,Hospital,Earthquake,5,75,199,18.11,Low,No,Yes
+47,Office,Flood,2,24,455,6.77,Low,Yes,No
+48,School,Earthquake,4,60,184,5.24,High,No,No
+49,Mall,Earthquake,7,105,455,2.86,Medium,Yes,Yes
+50,Mall,Tsunami,8,160,60,10.85,Low,No,No
+51,Hospital,Earthquake,3,45,373,16.84,High,Yes,Yes
+52,School,Earthquake,1,15,64,2.34,Medium,No,Yes
+53,Hospital,Flood,4,48,253,22.05,Low,Yes,No
+54,Residential Area,Tsunami,2,40,329,11.17,Medium,Yes,No
+55,Hospital,Cyclone,8,104,140,6.52,High,Yes,Yes
+56,Hospital,Flood,4,48,494,3.16,Low,Yes,Yes
+57,Mall,Flood,2,24,316,5.21,Medium,No,Yes
+58,Mall,Cyclone,6,78,144,22.5,Low,No,Yes
+59,Mall,Earthquake,6,90,30,15.68,Medium,Yes,No
+60,Residential Area,Fire,10,100,338,12.88,High,No,No
+61,Mall,Tsunami,4,80,176,16.11,High,Yes,No
+62,School,Fire,6,60,283,11.02,Low,Yes,No
+63,Office,Cyclone,2,26,397,17.79,Medium,No,No
+64,School,Flood,10,120,98,2.1,Low,Yes,Yes
+65,School,Flood,2,24,325,14.02,Low,Yes,No
+66,Mall,Tsunami,10,200,23,4.65,Medium,No,No
+67,Office,Flood,4,48,251,3.76,Medium,Yes,No
+68,Office,Flood,8,96,274,8.86,Medium,Yes,No
+69,Office,Tsunami,7,140,355,3.11,High,Yes,No
+70,Residential Area,Tsunami,9,180,62,3.17,Low,Yes,Yes
+71,Mall,Cyclone,8,104,395,8.16,Low,No,Yes
+72,Office,Flood,5,60,349,23.53,High,No,Yes
+73,Residential Area,Flood,2,24,101,5.03,Medium,No,No
+74,Hospital,Cyclone,5,65,376,1.39,High,Yes,Yes
+75,Hospital,Earthquake,8,120,453,18.56,High,Yes,Yes
+76,Residential Area,Earthquake,10,150,464,19.56,High,No,No
+77,Residential Area,Earthquake,9,135,437,8.96,Low,Yes,No
+78,Mall,Cyclone,9,117,273,11.69,High,Yes,No
+79,Mall,Flood,1,12,440,15.94,Low,Yes,Yes
+80,Hospital,Cyclone,9,117,44,2.11,Low,Yes,Yes
+81,Office,Cyclone,7,91,215,22.83,Low,No,No
+82,Hospital,Earthquake,9,135,90,21.39,Medium,No,No
+83,Office,Fire,8,80,429,7.0,Low,No,Yes
+84,Office,Flood,1,12,59,1.35,Low,Yes,Yes
+85,Mall,Earthquake,8,120,369,22.47,Medium,No,No
+86,School,Fire,8,80,397,12.52,Low,No,No
+87,School,Fire,3,30,11,13.41,High,Yes,Yes
+88,Residential Area,Tsunami,1,20,399,16.73,High,Yes,No
+89,Mall,Flood,8,96,63,15.16,Low,No,Yes
+90,Office,Fire,3,30,115,22.71,Medium,No,Yes
+91,School,Earthquake,3,45,269,22.72,High,No,Yes
+92,Office,Tsunami,1,20,319,20.95,Medium,No,Yes
+93,School,Flood,5,60,486,15.64,Medium,Yes,No
+94,School,Cyclone,10,130,200,19.42,High,No,No
+95,School,Earthquake,7,105,411,16.57,Medium,No,Yes
+96,Mall,Fire,10,100,227,14.19,High,Yes,Yes
+97,Hospital,Fire,9,90,53,3.96,Medium,No,Yes
+98,Office,Earthquake,7,105,171,19.66,High,Yes,Yes
+99,Mall,Fire,9,90,211,19.87,Low,Yes,Yes
+100,Mall,Tsunami,8,160,455,15.4,High,Yes,No
+101,Mall,Flood,2,24,493,19.87,High,No,No
+102,Mall,Tsunami,1,20,279,15.98,High,No,No
+103,Mall,Fire,7,70,360,5.75,High,Yes,No
+104,Residential Area,Cyclone,7,91,313,7.3,Medium,No,Yes
+105,Office,Flood,8,96,280,5.94,Low,No,Yes
+106,Mall,Flood,5,60,465,9.68,High,Yes,Yes
+107,Office,Earthquake,3,45,471,1.9,Medium,Yes,Yes
+108,Residential Area,Earthquake,8,120,224,15.22,Low,No,Yes
+109,Residential Area,Cyclone,6,78,261,8.74,Low,Yes,No
+110,Office,Flood,3,36,199,16.08,Low,No,Yes
+111,School,Cyclone,1,13,305,9.86,Low,No,No
+112,Hospital,Earthquake,3,45,222,16.68,High,No,No
+113,School,Earthquake,5,75,217,8.83,High,No,No
+114,School,Flood,3,36,246,7.0,Medium,Yes,No
+115,School,Tsunami,1,20,347,12.41,Medium,Yes,Yes
+116,Mall,Fire,5,50,376,16.94,Medium,Yes,No
+117,Residential Area,Earthquake,10,150,62,9.01,Low,Yes,No
+118,School,Earthquake,7,105,289,22.54,Low,No,No
+119,Residential Area,Tsunami,7,140,419,1.9,High,No,Yes
+120,Office,Tsunami,9,180,226,10.61,Low,Yes,Yes
+121,Hospital,Cyclone,10,130,261,23.25,Low,No,Yes
+122,Office,Cyclone,10,130,197,13.6,Low,No,No
+123,Office,Fire,3,30,389,10.74,Medium,No,No
+124,Mall,Fire,7,70,50,14.08,Medium,Yes,Yes
+125,Hospital,Flood,1,12,166,14.25,High,Yes,No
+126,Office,Cyclone,4,52,24,17.83,Low,Yes,Yes
+127,Office,Earthquake,4,60,310,3.94,Low,No,Yes
+128,Hospital,Cyclone,5,65,74,6.75,High,Yes,No
+129,Hospital,Earthquake,7,105,354,14.35,Low,Yes,No
+130,Office,Tsunami,7,140,336,20.94,Low,Yes,No
+131,Hospital,Cyclone,4,52,18,13.92,Medium,Yes,No
+132,Office,Tsunami,7,140,353,6.49,High,Yes,Yes
+133,Office,Fire,3,30,138,16.64,High,Yes,Yes
+134,Mall,Fire,6,60,145,18.02,High,No,Yes
+135,School,Flood,2,24,481,6.48,High,No,Yes
+136,Office,Cyclone,10,130,72,9.69,Medium,Yes,Yes
+137,Residential Area,Tsunami,9,180,148,13.29,Medium,Yes,No
+138,School,Earthquake,5,75,90,12.42,Low,No,Yes
+139,School,Fire,6,60,401,9.96,Low,No,Yes
+140,School,Fire,4,40,172,7.85,Low,Yes,Yes
+141,Mall,Earthquake,10,150,428,3.3,Low,Yes,No
+142,Office,Tsunami,7,140,298,2.23,Medium,Yes,No
+143,Mall,Tsunami,9,180,388,23.05,High,Yes,No
+144,Office,Cyclone,7,91,270,20.48,Medium,No,No
+145,Mall,Cyclone,1,13,499,9.16,Low,Yes,Yes
+146,Mall,Flood,1,12,240,23.01,Medium,Yes,Yes
+147,Residential Area,Fire,9,90,50,16.57,High,Yes,No
+148,Mall,Cyclone,9,117,37,12.1,High,Yes,No
+149,Hospital,Tsunami,4,80,144,12.34,Medium,No,Yes
+150,Residential Area,Earthquake,9,135,210,2.92,Medium,No,Yes
+151,Mall,Tsunami,3,60,337,3.11,Medium,No,No
+152,School,Fire,7,70,277,14.86,Low,Yes,No
+153,Hospital,Tsunami,6,120,427,13.74,Medium,Yes,No
+154,Hospital,Flood,8,96,42,5.89,Medium,No,No
+155,Hospital,Fire,9,90,57,22.76,Medium,Yes,Yes
+156,Residential Area,Earthquake,5,75,416,18.97,High,Yes,Yes
+157,Mall,Flood,1,12,71,3.61,High,No,Yes
+158,Mall,Fire,3,30,225,22.41,Low,No,No
+159,School,Earthquake,10,150,302,23.41,Low,No,No
+160,School,Flood,8,96,108,23.91,High,No,Yes
+161,Hospital,Flood,6,72,181,2.29,High,Yes,Yes
+162,School,Fire,8,80,369,17.95,High,Yes,Yes
+163,Residential Area,Cyclone,9,117,223,13.56,Medium,No,Yes
+164,Mall,Flood,4,48,484,17.23,Medium,Yes,No
+165,Hospital,Flood,1,12,44,23.28,High,No,Yes
+166,School,Earthquake,1,15,458,16.82,Medium,No,Yes
+167,Residential Area,Tsunami,10,200,236,20.25,Medium,Yes,Yes
+168,Residential Area,Fire,4,40,110,20.94,Low,No,Yes
+169,School,Fire,7,70,440,20.29,High,Yes,Yes
+170,Mall,Cyclone,2,26,471,10.8,High,Yes,Yes
+171,School,Cyclone,3,39,140,6.12,Medium,Yes,Yes
+172,Hospital,Fire,1,10,266,10.12,High,Yes,No
+173,School,Cyclone,5,65,14,21.51,Low,No,No
+174,Residential Area,Earthquake,1,15,227,4.37,Low,Yes,No
+175,School,Fire,8,80,264,12.81,Low,No,No
+176,Mall,Cyclone,1,13,407,6.36,High,No,Yes
+177,Office,Fire,1,10,368,14.37,High,No,No
+178,School,Tsunami,2,40,292,20.85,High,No,No
+179,Mall,Flood,2,24,402,21.25,High,Yes,Yes
+180,Mall,Fire,6,60,216,6.44,High,Yes,Yes
+181,Residential Area,Flood,7,84,24,21.88,Low,No,No
+182,Mall,Cyclone,5,65,355,14.61,Medium,No,No
+183,Mall,Flood,1,12,51,9.06,Low,Yes,Yes
+184,Mall,Fire,1,10,389,17.29,High,No,No
+185,Mall,Tsunami,3,60,470,12.08,Low,Yes,Yes
+186,Hospital,Cyclone,2,26,188,9.69,High,No,Yes
+187,Hospital,Fire,5,50,72,17.22,High,Yes,Yes
+188,Residential Area,Cyclone,10,130,361,6.72,Low,No,Yes
+189,School,Earthquake,6,90,240,8.6,High,No,No
+190,Mall,Flood,7,84,250,10.99,Medium,Yes,Yes
+191,School,Earthquake,4,60,61,6.83,High,No,Yes
+192,School,Fire,7,70,105,10.32,Medium,No,No
+193,Residential Area,Tsunami,8,160,397,14.14,Medium,Yes,Yes
+194,Mall,Cyclone,1,13,231,18.04,High,No,No
+195,Mall,Flood,6,72,494,18.65,Low,Yes,No
+196,Office,Cyclone,8,104,416,19.92,Medium,Yes,No
+197,School,Fire,5,50,240,18.12,Low,No,Yes
+198,School,Cyclone,4,52,246,16.66,Medium,No,No
+199,Hospital,Flood,2,24,152,6.46,High,No,No
+200,Office,Fire,6,60,180,10.21,High,No,Yes
+201,Hospital,Cyclone,6,78,38,11.99,Medium,No,No
+202,Hospital,Tsunami,1,20,45,2.91,High,No,No
+203,Hospital,Fire,9,90,22,13.15,Medium,No,No
+204,Residential Area,Fire,6,60,169,11.04,High,Yes,No
+205,Residential Area,Tsunami,3,60,336,19.45,Low,No,No
+206,Hospital,Earthquake,4,60,196,23.49,High,Yes,Yes
+207,Office,Flood,4,48,252,13.79,Low,No,No
+208,School,Earthquake,3,45,95,8.42,High,No,No
+209,Office,Cyclone,10,130,293,2.0,Low,Yes,Yes
+210,Mall,Tsunami,3,60,75,22.27,High,No,Yes
+211,Residential Area,Earthquake,3,45,179,22.14,Low,No,Yes
+212,School,Fire,4,40,54,6.82,Medium,Yes,No
+213,School,Cyclone,7,91,71,16.99,Medium,No,Yes
+214,Mall,Cyclone,4,52,450,2.73,Low,No,No
+215,Mall,Earthquake,9,135,143,4.82,High,No,No
+216,Hospital,Earthquake,1,15,293,5.99,Low,Yes,Yes
+217,Residential Area,Tsunami,8,160,37,7.77,High,No,Yes
+218,Residential Area,Flood,7,84,117,23.9,Medium,No,No
+219,Office,Earthquake,2,30,53,17.03,High,No,Yes
+220,Hospital,Earthquake,8,120,349,9.84,Medium,No,No
+221,Hospital,Fire,1,10,295,17.95,High,Yes,Yes
+222,Hospital,Cyclone,9,117,455,22.05,High,Yes,Yes
+223,Hospital,Flood,9,108,340,23.05,High,No,Yes
+224,Residential Area,Fire,2,20,137,2.33,Low,No,No
+225,Residential Area,Tsunami,7,140,357,10.07,Low,Yes,Yes
+226,Hospital,Tsunami,10,200,482,3.46,Medium,Yes,No
+227,Office,Earthquake,3,45,240,8.72,Medium,No,No
+228,School,Earthquake,7,105,199,4.9,Low,Yes,No
+229,School,Tsunami,10,200,234,15.88,Medium,No,No
+230,Office,Earthquake,9,135,394,9.93,Low,Yes,Yes
+231,Hospital,Flood,4,48,386,6.28,High,Yes,No
+232,Residential Area,Earthquake,1,15,292,7.12,Medium,Yes,No
+233,School,Cyclone,2,26,455,9.29,Medium,Yes,Yes
+234,Mall,Earthquake,1,15,130,6.98,Low,No,No
+235,Mall,Fire,5,50,125,11.42,Medium,Yes,Yes
+236,Office,Flood,5,60,470,1.74,Medium,Yes,No
+237,Hospital,Fire,7,70,242,7.43,High,No,Yes
+238,School,Fire,9,90,268,10.46,Medium,Yes,No
+239,Hospital,Cyclone,9,117,368,14.86,High,Yes,Yes
+240,School,Flood,3,36,207,7.23,Low,No,No
+241,Office,Flood,3,36,465,4.06,Medium,Yes,No
+242,Office,Flood,3,36,420,2.75,High,No,Yes
+243,Mall,Flood,4,48,146,22.63,Low,No,Yes
+244,Hospital,Flood,8,96,327,10.58,Medium,No,Yes
+245,Mall,Cyclone,6,78,174,14.37,Low,No,Yes
+246,Hospital,Earthquake,8,120,234,22.14,Medium,Yes,No
+247,Mall,Fire,1,10,316,2.9,Low,No,No
+248,Residential Area,Flood,8,96,243,21.16,Low,Yes,Yes
+249,Residential Area,Earthquake,4,60,181,13.69,High,Yes,No
+250,Residential Area,Earthquake,1,15,161,4.79,Low,Yes,Yes
+251,Residential Area,Fire,8,80,472,10.46,Medium,Yes,Yes
+252,School,Cyclone,4,52,324,18.88,Medium,Yes,No
+253,Residential Area,Tsunami,6,120,383,12.05,High,Yes,No
+254,Office,Tsunami,8,160,169,23.66,Medium,Yes,No
+255,Office,Earthquake,4,60,105,9.66,Medium,Yes,No
+256,School,Fire,3,30,481,18.24,Medium,Yes,No
+257,Residential Area,Tsunami,9,180,242,10.04,Low,Yes,No
+258,Residential Area,Earthquake,3,45,189,20.07,Low,No,No
+259,Residential Area,Cyclone,9,117,122,14.09,Medium,No,Yes
+260,Mall,Tsunami,2,40,327,2.46,High,No,Yes
+261,Hospital,Earthquake,2,30,451,1.85,Low,Yes,Yes
+262,Mall,Earthquake,2,30,61,4.08,High,No,Yes
+263,Hospital,Flood,6,72,277,1.31,Medium,No,Yes
+264,Residential Area,Cyclone,3,39,304,2.73,Medium,No,No
+265,Residential Area,Flood,9,108,395,16.91,Low,Yes,Yes
+266,Mall,Fire,4,40,396,13.29,Medium,Yes,Yes
+267,Mall,Flood,1,12,122,18.25,Low,Yes,Yes
+268,Hospital,Flood,4,48,110,22.0,Medium,Yes,Yes
+269,Office,Tsunami,1,20,122,14.46,Medium,No,Yes
+270,Hospital,Earthquake,5,75,449,17.7,Low,No,Yes
+271,Mall,Cyclone,4,52,90,18.41,Low,No,Yes
+272,Mall,Flood,8,96,196,9.69,Low,No,No
+273,School,Cyclone,8,104,122,6.54,Medium,Yes,No
+274,Mall,Flood,7,84,11,5.72,Medium,Yes,Yes
+275,School,Fire,3,30,139,6.78,High,Yes,No
+276,Office,Flood,1,12,229,7.32,Low,No,No
+277,Hospital,Tsunami,1,20,63,5.77,Medium,Yes,No
+278,Hospital,Earthquake,3,45,352,21.2,Medium,Yes,No
+279,School,Fire,6,60,494,18.41,Low,No,Yes
+280,Hospital,Flood,7,84,233,2.08,High,No,No
+281,Mall,Cyclone,6,78,234,7.18,Low,Yes,No
+282,Residential Area,Fire,6,60,394,1.51,High,Yes,No
+283,School,Fire,6,60,412,12.46,Medium,Yes,Yes
+284,Hospital,Flood,3,36,135,11.95,High,Yes,Yes
+285,School,Fire,6,60,139,20.12,Medium,Yes,Yes
+286,School,Cyclone,8,104,62,8.08,Low,Yes,Yes
+287,Residential Area,Fire,2,20,181,19.78,Low,No,Yes
+288,Mall,Cyclone,5,65,227,23.26,Low,No,Yes
+289,School,Flood,1,12,169,3.03,High,No,Yes
+290,Hospital,Earthquake,1,15,207,19.21,Medium,Yes,No
+291,Office,Fire,5,50,425,14.57,Low,No,No
+292,School,Earthquake,3,45,256,12.04,Low,Yes,No
+293,School,Cyclone,4,52,333,10.67,Medium,Yes,Yes
+294,Residential Area,Fire,3,30,448,19.05,Low,No,Yes
+295,Mall,Tsunami,1,20,212,15.71,Medium,Yes,Yes
+296,Office,Earthquake,1,15,193,19.52,Medium,Yes,Yes
+297,Hospital,Fire,5,50,132,21.77,Medium,No,Yes
+298,Office,Earthquake,6,90,410,15.2,Medium,No,No
+299,Hospital,Fire,3,30,264,23.55,Medium,No,No
+300,Mall,Flood,9,108,303,14.99,High,Yes,Yes
+301,Hospital,Earthquake,5,75,289,15.64,Low,No,Yes
+302,Residential Area,Tsunami,8,160,334,13.76,High,No,Yes
+303,Residential Area,Tsunami,1,20,381,3.09,Low,Yes,Yes
+304,Residential Area,Cyclone,5,65,107,17.71,High,No,No
+305,Residential Area,Fire,3,30,207,13.59,Medium,No,Yes
+306,Office,Earthquake,1,15,479,11.37,Low,No,Yes
+307,Mall,Cyclone,4,52,404,21.94,Low,Yes,Yes
+308,Hospital,Earthquake,5,75,249,7.85,High,Yes,Yes
+309,Hospital,Fire,7,70,153,13.04,High,Yes,No
+310,Residential Area,Tsunami,1,20,106,17.05,Low,Yes,Yes
+311,Residential Area,Flood,3,36,210,19.32,High,No,Yes
+312,School,Tsunami,2,40,133,11.56,High,Yes,No
+313,Mall,Cyclone,9,117,196,20.37,High,Yes,No
+314,Office,Flood,10,120,335,18.69,Medium,No,No
+315,Hospital,Cyclone,6,78,473,2.52,Medium,No,Yes
+316,School,Fire,10,100,358,2.05,High,No,Yes
+317,School,Flood,3,36,268,15.28,High,Yes,No
+318,Hospital,Cyclone,8,104,157,8.99,Medium,Yes,No
+319,Office,Fire,8,80,261,5.81,Medium,Yes,No
+320,School,Tsunami,2,40,452,14.33,Low,No,No
+321,School,Fire,6,60,429,8.86,Low,No,No
+322,Mall,Earthquake,7,105,412,13.36,Medium,Yes,No
+323,Office,Fire,2,20,355,11.58,High,No,Yes
+324,School,Fire,10,100,460,14.45,High,No,Yes
+325,Office,Earthquake,2,30,156,10.21,High,No,Yes
+326,Hospital,Cyclone,10,130,157,17.05,High,Yes,No
+327,Residential Area,Cyclone,1,13,361,5.14,Low,No,No
+328,School,Fire,8,80,208,17.02,Medium,No,No
+329,Mall,Earthquake,1,15,317,10.47,High,Yes,No
+330,Hospital,Earthquake,9,135,498,21.11,Low,Yes,No
+331,Office,Tsunami,6,120,426,12.85,High,No,No
+332,Hospital,Cyclone,7,91,433,23.38,Medium,No,Yes
+333,School,Flood,10,120,137,14.84,Low,Yes,Yes
+334,Office,Cyclone,7,91,48,6.15,Medium,Yes,No
+335,Residential Area,Cyclone,10,130,347,19.9,Medium,No,Yes
+336,Hospital,Tsunami,3,60,369,8.94,Low,No,No
+337,School,Flood,2,24,138,9.0,Low,No,Yes
+338,Mall,Tsunami,9,180,276,1.73,Low,No,No
+339,Office,Flood,8,96,485,13.62,Low,Yes,No
+340,Hospital,Fire,10,100,450,13.29,Low,No,Yes
+341,Hospital,Flood,7,84,482,9.19,Low,No,Yes
+342,Residential Area,Tsunami,9,180,443,21.57,Low,Yes,No
+343,Residential Area,Cyclone,4,52,160,3.96,High,No,No
+344,Mall,Flood,4,48,424,8.59,Medium,Yes,Yes
+345,Mall,Flood,1,12,487,8.4,Low,No,Yes
+346,School,Earthquake,8,120,307,3.12,High,No,No
+347,School,Cyclone,3,39,108,12.07,High,Yes,Yes
+348,Mall,Fire,7,70,272,16.82,High,Yes,No
+349,Mall,Tsunami,2,40,261,12.77,Medium,No,No
+350,Office,Fire,2,20,153,4.61,Low,No,No
+351,Residential Area,Cyclone,7,91,355,9.68,High,No,No
+352,School,Flood,6,72,121,1.06,Medium,Yes,Yes
+353,Residential Area,Flood,3,36,69,20.97,Medium,No,Yes
+354,Residential Area,Cyclone,9,117,378,2.94,Medium,Yes,Yes
+355,Mall,Flood,10,120,11,14.74,High,Yes,Yes
+356,Office,Flood,6,72,394,23.68,Low,No,Yes
+357,Hospital,Flood,10,120,313,13.34,High,Yes,Yes
+358,Office,Tsunami,10,200,263,22.25,High,No,Yes
+359,Office,Tsunami,6,120,149,6.43,Low,No,No
+360,Residential Area,Earthquake,1,15,462,18.48,Low,No,Yes
+361,Office,Fire,4,40,46,13.22,Low,No,Yes
+362,School,Cyclone,10,130,169,17.57,Medium,No,No
+363,Residential Area,Cyclone,6,78,18,2.43,Low,Yes,Yes
+364,School,Cyclone,6,78,242,4.4,High,Yes,Yes
+365,Hospital,Earthquake,5,75,108,4.06,Low,No,No
+366,Residential Area,Tsunami,1,20,156,16.8,High,No,Yes
+367,Hospital,Earthquake,8,120,313,20.42,Medium,Yes,Yes
+368,Residential Area,Cyclone,5,65,217,18.24,High,Yes,Yes
+369,Mall,Fire,5,50,140,1.7,High,Yes,No
+370,Office,Flood,7,84,413,20.95,Low,Yes,Yes
+371,Mall,Tsunami,4,80,161,9.15,Low,No,Yes
+372,Hospital,Tsunami,6,120,63,10.13,High,No,No
+373,Office,Earthquake,4,60,129,3.41,Low,Yes,Yes
+374,Residential Area,Tsunami,3,60,170,17.96,Medium,No,No
+375,Office,Cyclone,7,91,417,5.19,Medium,Yes,No
+376,School,Cyclone,8,104,125,13.97,Low,No,Yes
+377,Office,Earthquake,4,60,84,20.34,Medium,Yes,No
+378,School,Cyclone,2,26,122,3.05,Low,No,No
+379,Office,Fire,10,100,465,13.31,High,Yes,Yes
+380,School,Earthquake,3,45,429,6.36,High,Yes,No
+381,Hospital,Fire,1,10,431,8.89,Medium,No,No
+382,Mall,Flood,8,96,113,11.9,Low,Yes,Yes
+383,Residential Area,Fire,3,30,349,9.17,Low,No,Yes
+384,Office,Flood,10,120,263,15.92,Medium,No,Yes
+385,Mall,Flood,7,84,236,12.03,High,Yes,No
+386,Residential Area,Fire,10,100,121,14.44,Medium,No,Yes
+387,Residential Area,Earthquake,5,75,482,17.95,High,No,No
+388,School,Cyclone,10,130,108,13.83,Low,No,No
+389,Hospital,Cyclone,5,65,162,14.49,High,No,No
+390,Hospital,Flood,7,84,358,13.98,Medium,No,No
+391,Mall,Flood,9,108,411,9.71,Low,Yes,No
+392,Hospital,Earthquake,5,75,393,8.76,Medium,No,No
+393,Office,Tsunami,1,20,375,21.69,Medium,No,No
+394,Hospital,Fire,10,100,347,14.97,High,No,Yes
+395,Mall,Flood,10,120,203,6.62,Medium,No,Yes
+396,Hospital,Cyclone,1,13,319,12.46,High,No,No
+397,Office,Earthquake,2,30,172,8.6,Low,Yes,No
+398,School,Fire,6,60,217,22.47,High,No,Yes
+399,Mall,Earthquake,9,135,454,1.17,Low,Yes,No
+400,School,Fire,8,80,178,6.18,High,Yes,Yes
+401,School,Fire,5,50,493,9.4,Medium,Yes,Yes
+402,School,Flood,1,12,170,12.22,High,Yes,Yes
+403,Residential Area,Earthquake,7,105,77,20.57,High,No,No
+404,Residential Area,Earthquake,5,75,298,3.02,Low,Yes,No
+405,School,Cyclone,6,78,407,19.53,Medium,Yes,Yes
+406,Mall,Cyclone,7,91,286,2.28,High,No,Yes
+407,Office,Flood,3,36,313,20.37,Medium,No,Yes
+408,Office,Flood,10,120,413,2.19,High,No,Yes
+409,Hospital,Tsunami,3,60,393,1.42,High,Yes,Yes
+410,Mall,Cyclone,5,65,401,17.03,Medium,No,No
+411,Residential Area,Fire,6,60,144,23.94,High,No,Yes
+412,School,Earthquake,9,135,204,21.62,Medium,Yes,No
+413,Hospital,Flood,5,60,410,14.25,High,No,Yes
+414,Office,Earthquake,1,15,137,22.1,Low,No,No
+415,Residential Area,Earthquake,4,60,42,1.12,Medium,No,No
+416,Residential Area,Tsunami,5,100,185,23.43,High,No,No
+417,School,Cyclone,10,130,469,12.29,High,Yes,No
+418,Office,Flood,10,120,452,17.63,Low,No,No
+419,Mall,Earthquake,5,75,380,19.88,Medium,No,No
+420,Residential Area,Flood,7,84,479,17.52,High,Yes,Yes
+421,School,Fire,4,40,384,13.31,Low,No,No
+422,Mall,Tsunami,1,20,31,11.96,High,Yes,Yes
+423,Office,Fire,5,50,247,20.29,Medium,No,No
+424,Residential Area,Flood,7,84,167,5.72,High,Yes,No
+425,Mall,Flood,10,120,47,23.26,High,Yes,Yes
+426,Mall,Cyclone,10,130,239,17.35,High,Yes,No
+427,Mall,Earthquake,6,90,374,5.59,High,Yes,Yes
+428,Residential Area,Earthquake,5,75,60,17.93,Low,No,Yes
+429,Residential Area,Fire,4,40,447,13.19,Low,Yes,Yes
+430,Hospital,Tsunami,2,40,273,17.27,Medium,No,Yes
+431,Office,Earthquake,4,60,292,18.66,Low,Yes,No
+432,School,Cyclone,10,130,36,3.01,Low,Yes,No
+433,Mall,Fire,10,100,235,12.64,Medium,Yes,Yes
+434,Hospital,Fire,3,30,286,22.44,Low,No,No
+435,School,Cyclone,10,130,295,8.37,Low,Yes,No
+436,Hospital,Tsunami,1,20,106,14.66,Medium,No,Yes
+437,Residential Area,Cyclone,8,104,293,9.49,Medium,No,No
+438,Mall,Tsunami,5,100,376,11.45,Medium,No,Yes
+439,School,Cyclone,4,52,457,13.62,High,No,Yes
+440,School,Cyclone,8,104,490,13.63,High,No,No
+441,School,Flood,7,84,462,5.64,Medium,No,No
+442,School,Fire,2,20,326,16.75,Medium,No,No
+443,School,Cyclone,1,13,313,3.02,Medium,No,Yes
+444,Hospital,Cyclone,4,52,156,4.19,High,No,Yes
+445,Mall,Earthquake,8,120,13,1.06,High,Yes,No
+446,Residential Area,Fire,2,20,44,3.68,Low,Yes,No
+447,Residential Area,Earthquake,3,45,201,11.88,Low,Yes,No
+448,Residential Area,Fire,1,10,58,14.94,Medium,Yes,No
+449,Residential Area,Earthquake,1,15,26,19.27,High,Yes,Yes
+450,Hospital,Cyclone,3,39,181,3.45,High,No,No
+451,Office,Cyclone,5,65,229,20.57,High,No,Yes
+452,Mall,Flood,3,36,167,18.16,Medium,No,Yes
+453,School,Earthquake,1,15,486,10.4,Low,No,No
+454,Office,Tsunami,1,20,55,22.46,Medium,No,No
+455,Residential Area,Flood,8,96,382,23.79,Low,No,No
+456,Office,Earthquake,10,150,15,5.72,Low,No,Yes
+457,Mall,Earthquake,2,30,108,9.72,Medium,Yes,No
+458,School,Flood,3,36,389,22.31,Low,Yes,No
+459,School,Cyclone,2,26,242,17.6,Low,Yes,Yes
+460,Mall,Earthquake,3,45,46,2.11,High,Yes,No
+461,Mall,Cyclone,7,91,289,18.97,Low,No,Yes
+462,Residential Area,Flood,1,12,358,20.04,Medium,No,No
+463,School,Cyclone,10,130,311,18.26,Medium,No,Yes
+464,Office,Fire,8,80,190,19.39,Low,Yes,No
+465,Hospital,Tsunami,10,200,104,19.98,High,No,No
+466,Hospital,Earthquake,10,150,108,5.29,High,No,Yes
+467,Mall,Tsunami,10,200,197,6.42,Low,No,Yes
+468,Residential Area,Cyclone,2,26,490,15.58,Low,Yes,No
+469,Hospital,Earthquake,3,45,125,21.88,Medium,No,Yes
+470,School,Cyclone,9,117,200,8.27,Low,Yes,Yes
+471,Mall,Fire,7,70,262,14.53,High,Yes,Yes
+472,Office,Flood,4,48,478,16.71,Low,Yes,Yes
+473,Mall,Earthquake,10,150,425,11.39,Medium,Yes,No
+474,Office,Fire,5,50,480,17.42,Medium,No,No
+475,Mall,Fire,2,20,170,21.69,Medium,Yes,Yes
+476,Mall,Earthquake,8,120,265,15.35,Medium,Yes,Yes
+477,Mall,Cyclone,4,52,332,13.41,Medium,No,Yes
+478,Office,Fire,9,90,137,11.09,Low,No,Yes
+479,Office,Tsunami,5,100,27,14.28,Low,Yes,No
+480,Mall,Fire,9,90,290,9.17,Low,No,No
+481,Hospital,Cyclone,4,52,499,10.0,Low,Yes,Yes
+482,Residential Area,Cyclone,10,130,232,13.23,Medium,Yes,Yes
+483,Residential Area,Tsunami,5,100,63,2.53,High,Yes,Yes
+484,Residential Area,Fire,9,90,67,6.27,Low,Yes,No
+485,Office,Cyclone,8,104,332,13.49,High,No,Yes
+486,Office,Earthquake,3,45,369,10.93,Low,Yes,No
+487,Hospital,Flood,1,12,183,8.65,Low,No,Yes
+488,Residential Area,Flood,3,36,289,17.8,High,No,No
+489,Residential Area,Flood,4,48,123,16.96,Medium,No,Yes
+490,Mall,Fire,2,20,297,4.83,Low,No,No
+491,Office,Tsunami,1,20,440,21.21,Low,Yes,Yes
+492,Residential Area,Cyclone,7,91,351,12.39,Low,No,Yes
+493,Hospital,Earthquake,8,120,160,18.05,High,Yes,Yes
+494,Hospital,Earthquake,7,105,459,14.18,Medium,No,No
+495,Residential Area,Fire,5,50,136,23.95,High,No,Yes
+496,Office,Flood,1,12,164,18.31,High,Yes,No
+497,Hospital,Fire,7,70,499,17.26,Medium,Yes,No
+498,Mall,Tsunami,7,140,395,18.91,High,Yes,Yes
+499,Hospital,Tsunami,9,180,483,4.29,Medium,No,Yes
+500,School,Cyclone,3,39,282,5.7,Low,No,Yes
